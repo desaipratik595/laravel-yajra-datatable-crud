@@ -33,10 +33,10 @@
                     {data: 'updated_at', name: 'updated_at'},
                     { data: 'actions', name: 'actions', orderable: false, searchable: false }
                 ],
-                dom: 'Bfrtip',
-                buttons: [
-                    'colvis' // Add column visibility button
-                ]
+                // dom: 'Bfrtip',
+                // buttons: [
+                //     'colvis' // Add column visibility button
+                // ]
             });
         });
     </script>
